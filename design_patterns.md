@@ -45,7 +45,7 @@
 ---
 ---fdffdfdfd
 
-## Princípios do desigm orientados a objetos (SOLID)
+## Princípios do design orientados a objetos (SOLID)
 -  Single Responsibility Pricinple
 -  Open/Closed Principle
 -  Liskov Substitution Principle
