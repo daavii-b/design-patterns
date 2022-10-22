@@ -1,7 +1,5 @@
 # Design Patterns (Padrões de Projetos)
 
-
-
 -  *Soluções para problemas conhecidos na arquitetura  de software*
 -  *Inicialmente foram criados com foco no **POO***.
 -  *Atualmente são soluções universais.*  
@@ -43,7 +41,7 @@
 - *Visitor*
 
 ---
----fdffdfdfd
+---
 
 ## Princípios do design orientados a objetos (SOLID)
 -  Single Responsibility Pricinple
@@ -51,6 +49,3 @@
 -  Liskov Substitution Principle
 -  Interface Segregation Principle
 -  Dependency Inversion Principle
-- ```console
-
-```
